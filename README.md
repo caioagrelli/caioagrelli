@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=4000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=900&lines=Hello+World,+My+name+is+Caio+Agrelli" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=4000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=900&lines=Welcome+to+World+of+Caio+Agrelli" />
 </div>
 
 
