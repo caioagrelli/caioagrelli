@@ -4,12 +4,10 @@
 </div>
 
 <br><br><br>
+img align="right" src="https://media.tenor.com/80Hf6R_0wUwAAAAM/lucario-pokemon.gif" width="250"/>
 
 <!-- 🔹 TÍTULO SKILLS -->
 <h2 style="color:white;">My Skills</h2>
-
-<!-- 🔹 GIF DIREITA -->
-<img align="right" src="https://media.tenor.com/80Hf6R_0wUwAAAAM/lucario-pokemon.gif" width="250"/>
 
 <!-- 🔹 SKILLS ESQUERDA EM UMA LINHA -->
 <p align="left">
