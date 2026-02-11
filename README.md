@@ -8,7 +8,7 @@
 <!-- 🔹 TEXTO + GIF -->
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="0%" valign="top">
 
 Computer Engineering student at the Center of Informatics (CIn) at UFPE and developer at the Public Prosecutor’s Office.
 <br><br>
