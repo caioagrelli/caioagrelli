@@ -5,8 +5,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,django,git,linux,vscode" />
 </p>
+<img align="right" src="https://media.tenor.com/80Hf6R_0wUwAAAAM/lucario-pokemon.gif" width="250"/>
 
-<div class="tenor-gif-embed" data-postid="17528537417059189068" data-share-method="host" data-aspect-ratio="0.971111" data-width="100%"><a href="https://tenor.com/view/lucario-pokemon-pokemon-lucario-lucario-pokemon-pokemon-anime-gif-17528537417059189068">Lucario Pokemon GIF</a>from <a href="https://tenor.com/search/lucario-gifs">Lucario GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+
+https://tenor.com/view/lucario-pokemon-pokemon-lucario-lucario-pokemon-pokemon-anime-gif-17528537417059189068
 
 <div align="center">
 
