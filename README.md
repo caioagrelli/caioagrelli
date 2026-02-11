@@ -10,7 +10,7 @@
 <img align="right" src="https://media.tenor.com/80Hf6R_0wUwAAAAM/lucario-pokemon.gif" width="250"/>
 
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 <!-- TÍTULO -->
 <h2 style="color:white;">My Skills</h2>
 
