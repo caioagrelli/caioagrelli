@@ -5,24 +5,44 @@
 
 <br><br><br>
 
-<!-- 🔹 GIF NO TOPO À DIREITA -->
+Tem sim 👍
+O que está acontecendo é que o align="right" faz o GIF “flutuar”, e todo o resto sobe ao lado dele.
+
+Se você quer:
+
+GIF sozinho no topo direito
+
+Depois (abaixo dele) → My Skills
+
+Depois → os ícones
+
+Então você precisa quebrar o fluxo depois do GIF.
+
+✅ SOLUÇÃO CORRETA
+
+Coloque vários <br> logo após o GIF para empurrar o conteúdo para baixo da altura dele.
+
+<br><br><br>
+
+<!-- GIF NO TOPO DIREITA -->
 <img align="right" src="https://media.tenor.com/80Hf6R_0wUwAAAAM/lucario-pokemon.gif" width="250"/>
 
-<br>
+<br><br><br><br><br><br><br><br>
 
-<!-- 🔹 TÍTULO -->
+<!-- TÍTULO -->
 <h2 style="color:white;">My Skills</h2>
 
-<!-- 🔹 SKILLS EM UMA LINHA À ESQUERDA -->
-<p align="left">
+<!-- SKILLS -->
+<p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,django,git,linux,vscode&perline=7" />
 </p>
 
 <br clear="both"/>
 
-<br><br><br>
+<br><br>
 
-<!-- 🔹 SNAKE EMBAIXO -->
+<!-- SNAKE -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/caioagrelli/caioagrelli/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
