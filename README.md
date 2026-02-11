@@ -6,7 +6,7 @@
 <br><br>
 
 <!-- 🔹 TEXTO + GIF -->
-
+<table>
 <tr>
 <td width="60%" valign="top">
 
@@ -22,7 +22,7 @@ My main stack includes C and Python, developing backend systems with Django whil
 <img src="https://media.tenor.com/80Hf6R_0wUwAAAAM/lucario-pokemon.gif" width="250"/>
 </td>
 </tr>
-
+<table>
 
 <br><br>
 
