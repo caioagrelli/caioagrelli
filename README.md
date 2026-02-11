@@ -4,7 +4,7 @@
 </div>
 
 
-<br><br><br>
+<br><br>
 
 <!-- GIF NO TOPO DIREITA -->
 <img align="right" src="https://media.tenor.com/80Hf6R_0wUwAAAAM/lucario-pokemon.gif" width="250"/>
