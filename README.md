@@ -1,6 +1,9 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&...&center=true&vCenter=true" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=200&section=header&text=Hello%20World,%20My%20name%20is%20Caio%20Agrelli&fontSize=25&fontColor=1F6FEB&fontAlignY=50&font=Press%20Start%202P" />
+
 </div>
+
 
 
 
