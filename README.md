@@ -11,13 +11,7 @@
 <td width="60%" valign="top">
 
 Computer Engineering student at the Center of Informatics (CIn) at UFPE and developer at the Public Prosecutor’s Office.
-
-<br><br>
-
 I focus on building structured, efficient, and scalable systems, combining strong theoretical foundations with practical experience in real-world applications.
-
-<br><br>
-
 My main stack includes C and Python, developing backend systems with Django while exploring deeper concepts such as system architecture, algorithms, and performance optimization.
 
 </td>
