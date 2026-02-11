@@ -29,7 +29,7 @@ My main stack includes C and Python, developing backend systems with Django whil
 <!-- 🔹 MY SKILLS -->
 <h2>My Skills</h2>
 
-<img src="https://skillicons.dev/icons?i=python,c,django,mysql,godot,git,linux,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,python,c,arduino,django,bootstrap,mysql,godot,git,github,linux,vscode&perline=7" />
 
 <br><br>
 
