@@ -1,5 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=4000&pause=1000&color=1F6FEB&width=900&lines=Hello+World,+Caio+Agrelli" />
-
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&...&center=true&vCenter=true" />
+</div>
 
 
 
