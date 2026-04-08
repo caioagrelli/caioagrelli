@@ -19,7 +19,7 @@ My main stack includes C and Python, developing backend systems with Django whil
 </td>
 
 <td width="40%" align="right">
-<img src="https://media1.tenor.com/m/s96DWMIVYdgAAAAd/dwight-schrute-the-office.gif" width="250"/>
+<img src="https://media1.tenor.com/m/s96DWMIVYdgAAAAd/dwight-schrute-the-office.gif" width="500"/>
 </td>
 </tr>
 <table>
