@@ -27,13 +27,6 @@ My main stack includes C and Python, developing backend systems with Django whil
 
 <br><br>
 
-<!-- 🔹 SNAKE -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/caioagrelli/caioagrelli/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<br><br>
-
 <!-- 🔹 CONTACT -->
 <h2>Contact with me</h2>
 
@@ -48,3 +41,10 @@ My main stack includes C and Python, developing backend systems with Django whil
 <a href="YOUR_LINKEDIN_URL" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
 </a>
+
+<br><br>
+
+<!-- 🔹 SNAKE -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/caioagrelli/caioagrelli/output/github-contribution-grid-snake-dark.svg" />
+</div>
