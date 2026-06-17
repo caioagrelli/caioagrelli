@@ -19,7 +19,7 @@ My main stack includes C and Python, developing backend systems with Django whil
 <td width="40%" align="center" valign="middle">
 
 <h2>My Skills</h2>
-<img src="https://skillicons.dev/icons?i=html,python,c,arduino,django,bootstrap,mysql,docker,git,github,linux,clion,vscode,bash&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,python,c,arduino,django,bootstrap,mysql,docker,git,github,linux,clion,vscode,bash&perline=7" width="320"/>
 
 </td>
 </tr>
