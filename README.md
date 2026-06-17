@@ -31,3 +31,20 @@ My main stack includes C and Python, developing backend systems with Django whil
 <div align="center">
   <img src="https://raw.githubusercontent.com/caioagrelli/caioagrelli/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
+<br><br>
+
+<!-- 🔹 CONTACT -->
+<h2>Contact with me</h2>
+
+<a href="mailto:caarr@cin.ufpe.br">
+  <img src="https://skillicons.dev/icons?i=gmail" width="48" />
+</a>
+&nbsp;
+<a href="https://instagram.com/caiooagrelli_" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="48" />
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+</a>
